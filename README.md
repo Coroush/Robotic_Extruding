@@ -25,7 +25,7 @@ The following code generates robot program for extruding material using a roboti
 
 ## Description:
 
-![sample](./doc/example.png)
+![sample](./doc/example.jpg)
 ![Grasshopper Algorithm](./doc/definition.png)
 
 ### Prerequisites
